@@ -1,7 +1,9 @@
 # Stok Takip Uygulaması
 
 ## 📌 Proje Hakkında
-Bu uygulama, ürün stoklarını takip etmek için geliştirilmiş bir Windows Forms uygulamasıdır. Ürün ekleme, güncelleme, silme, alış/satış işlemleri yapabilir ve verileri Excel/XML formatında dışa aktarabilirsiniz.
+Bu uygulama, istenildiği üzere sade ve işlevsel bir şekilde geliştirilmiş bir Windows Forms stok takip uygulamasıdır. Ürün ekleme, güncelleme, silme, alış/satış işlemleri yapabilir ve verileri Excel/XML formatında dışa aktarabilirsiniz.
+
+(Talep üzerine özel olarak sade bir biçimde geliştirilmiştir.)
 
 ## ✨ Özellikler
 - Ürün ekleme, güncelleme ve silme
