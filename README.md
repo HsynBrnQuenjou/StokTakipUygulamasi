@@ -54,4 +54,13 @@ Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICEN
 
 ---
 
-> **Not:** Bu uygulama geliştirme aşamasındadır. Öneri ve katkılarınız için Issues bölümünü kullanabilirsiniz.
+## İletişim
+
+Herhangi bir sorun ya da öneri için bana ulaşabilirsiniz.
+
+---
+
+## 👨‍💻 Geliştirici
+
+**Baran Hüseyin Kençü**
+Otomasyon ve veri işleme tutkusu ile geliştirildi. 💻❤️
