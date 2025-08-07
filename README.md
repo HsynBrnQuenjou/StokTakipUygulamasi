@@ -12,6 +12,9 @@ Bu uygulama, ürün stoklarını takip etmek için geliştirilmiş bir Windows F
 - Verilerin otomatik kaydedilmesi (XML formatında)
 - Kullanıcı dostu arayüz
 
+<img width="872" height="482" alt="Ekran görüntüsü 2025-08-07 234740" src="https://github.com/user-attachments/assets/2a1028ae-2377-4288-bab4-219dcdbde4ee" />
+
+
 ## 🛠 Kurulum
 1. Projeyi klonlayın veya ZIP olarak indirin.
 2. Visual Studio ile `StokTakipUygulamasi.sln` dosyasını açın.
